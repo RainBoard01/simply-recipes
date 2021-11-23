@@ -1,7 +1,8 @@
 import React from 'react';
+import Layout from '../components/Layout';
 
 const Error = () => {
-	return <div>Error 404 page not exist</div>;
+	return <Layout>Error 404 page not exist</Layout>;
 };
 
 export default Error;

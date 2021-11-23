@@ -1,13 +1,8 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
+import Layout from '../components/Layout';
 
-const about = () => {
-	return (
-		<div>
-			<Navbar />
-			about page
-		</div>
-	);
+const About = () => {
+	return <Layout>about page</Layout>;
 };
 
-export default about;
+export default About;
