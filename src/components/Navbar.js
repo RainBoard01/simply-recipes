@@ -23,9 +23,9 @@ const Navbar = () => {
 			<Flex
 				direction='row'
 				alignItems='center'
-				h='100px'
-				pl='50px'
-				pr='50px'
+				h='6rem'
+				w='90vw'
+				m='0 auto'
 				justify='space-between'
 			>
 				<HStack spacing='18px'>

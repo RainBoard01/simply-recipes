@@ -9,7 +9,7 @@ const Span = styled.span`
 const Footer = () => {
 	return (
 		<footer>
-			<Center bg='black' w='100%' h='72px' p='4' color='white'>
+			<Center bg='black' w='100%' h='4rem' p='4' color='white'>
 				<Text fontSize='lg'>
 					© 2021 <Span>SimplyRecipes</Span>. Built with{' '}
 					<Span>
